@@ -1,0 +1,160 @@
+player,club,league,age,minutes,position,value_gbp_m,kp_p90,tb_p90,prgp_p90,xag_p90,tklint_p90
+Adrian Bernabe,Parma,it Serie A,23.0,1453,Central Midfield,12.8,1.36,0.31,7.12,0.07,2.23
+Aimar Oroz,Osasuna,es La Liga,22.0,2966,Attacking Midfield,6.4,1.24,0.27,4.95,0.09,1.67
+Aimen Moueffek,Saint-Étienne,fr Ligue 1,23.0,1039,Central Midfield,0.8,0.87,0.17,3.72,0.1,2.17
+Albert Grønbaek,Southampton / Rennes,eng Premier League / fr Ligue 1,23.0,956,Attacking Midfield,4.2,1.88,0.09,2.92,0.09,2.73
+Albert Sambi Lokonga,Sevilla,es La Liga,24.0,1471,Central Midfield,10.2,1.16,0.31,5.69,0.06,1.9
+Alessandro Bianco,Monza / Fiorentina,it Serie A / it Serie A,21.0,2618,Central Midfield,3.4,0.62,0.14,4.3,0.04,2.51
+Alexis Mac Allister,Liverpool,eng Premier League,25.0,2599,Central Midfield,59.5,1.56,0.21,6.13,0.16,4.05
+Amir Richardson,Fiorentina,it Serie A,22.0,1024,Central Midfield,3.4,0.7,0.09,4.13,0.05,3.16
+Andrea Colpani,Fiorentina,it Serie A,25.0,1432,Attacking Midfield,5.1,1.07,0.13,3.58,0.08,1.45
+Andrey Santos,Strasbourg,fr Ligue 1,20.0,2855,Central Midfield,34.0,0.85,0.25,4.7,0.1,4.48
+András Schäfer,Union Berlin,de Bundesliga,25.0,1534,Central Midfield,3.8,0.59,0.0,3.23,0.05,4.34
+Andy Diouf,Lens,fr Ligue 1,21.0,2225,Central Midfield,17.0,1.33,0.53,4.69,0.11,2.1
+Arda Güler,Real Madrid,es La Liga,19.0,1250,Attacking Midfield,76.5,2.88,0.72,6.7,0.32,2.66
+Armin Gigovic,Holstein Kiel,de Bundesliga,22.0,1895,Central Midfield,2.1,0.76,0.24,2.37,0.1,2.18
+Arne Maier,Augsburg,de Bundesliga,25.0,938,Central Midfield,1.7,2.4,0.19,4.22,0.14,1.82
+Arthur Atta,Udinese,it Serie A,21.0,1251,Central Midfield,21.2,1.29,0.07,4.1,0.1,1.94
+Ayyoub Bouaddi,Lille,fr Ligue 1,16.0,1151,Central Midfield,42.5,0.39,0.08,2.89,0.08,4.69
+Bence Dárdai,Wolfsburg,de Bundesliga,18.0,1304,Attacking Midfield,4.2,0.76,0.07,2.69,0.07,2.48
+Benjamin Bouchouari,Saint-Étienne,fr Ligue 1,22.0,1772,Central Midfield,3.8,0.81,0.3,6.76,0.05,2.54
+Beñat Prados,Athletic Club,es La Liga,23.0,1715,Central Midfield,12.8,0.58,0.21,4.09,0.06,4.36
+Beñat Turrientes,Real Sociedad,es La Liga,22.0,942,Central Midfield,8.5,0.29,0.0,4.01,0.02,1.91
+Bilal El Khannouss,Leicester City,eng Premier League,20.0,2182,Attacking Midfield,29.8,1.73,0.45,5.28,0.19,2.31
+Carlo Boukhalfa,St. Pauli,de Bundesliga,25.0,1646,Attacking Midfield,3.0,0.6,0.11,2.24,0.06,2.08
+Cesare Casadei,Torino,it Serie A,21.0,1017,Central Midfield,12.8,0.62,0.0,3.19,0.04,1.5
+Charles De Ketelaere,Atalanta,it Serie A,23.0,2070,Attacking Midfield,25.5,1.7,0.61,6.09,0.26,0.7
+Christoph Baumgartner,RB Leipzig,de Bundesliga,24.0,1610,Attacking Midfield,34.0,1.12,0.56,2.96,0.07,3.13
+Cole Palmer,Chelsea,eng Premier League,22.0,3191,Attacking Midfield,85.0,2.45,0.62,6.04,0.31,1.27
+Conor Gallagher,Atlético Madrid,es La Liga,24.0,1633,Central Midfield,27.2,0.66,0.17,3.53,0.07,3.58
+Cristian Cásseres Jr.,Toulouse,fr Ligue 1,24.0,2696,Central Midfield,7.6,0.9,0.17,4.27,0.09,4.61
+Curtis Jones,Liverpool,eng Premier League,23.0,1712,Central Midfield,29.8,1.16,0.11,6.15,0.06,2.42
+Daniel Maldini,Monza / Atalanta,it Serie A / it Serie A,22.0,1564,Attacking Midfield,7.6,0.86,0.06,2.36,0.06,1.27
+Davide Frattesi,Inter,it Serie A,24.0,1158,Central Midfield,18.7,0.54,0.39,2.41,0.06,1.71
+Dejan Kulusevski,Tottenham,eng Premier League,24.0,2389,Attacking Midfield,14.4,2.45,0.41,4.67,0.23,2.19
+Djaoui Cissé,Rennes,fr Ligue 1,20.0,1121,Central Midfield,8.5,0.48,0.08,6.74,0.02,3.69
+Domingos André Ribeiro Almeida,Valencia,es La Liga,24.0,1977,Attacking Midfield,5.1,1.96,0.32,6.46,0.15,2.55
+Dominik Szoboszlai,Liverpool,eng Premier League,23.0,2491,Attacking Midfield,85.0,2.02,0.18,4.73,0.27,1.7
+Eduardo Camavinga,Real Madrid,es La Liga,21.0,1102,Central Midfield,42.5,0.9,0.33,4.98,0.07,4.9
+Elif Elmas,Torino / RB Leipzig,it Serie A / de Bundesliga,24.0,1065,Attacking Midfield,11.0,0.76,0.08,3.04,0.03,1.61
+Elliot Anderson,Nott'ham Forest,eng Premier League,21.0,2728,Central Midfield,63.8,1.22,0.23,4.72,0.11,4.06
+Emile Smith Rowe,Fulham,eng Premier League,24.0,2043,Attacking Midfield,17.0,1.06,0.09,5.55,0.06,1.85
+Enzo Fernández,Chelsea,eng Premier League,23.0,2947,Central Midfield,76.5,2.35,0.43,6.47,0.21,2.38
+Enzo Millot,Stuttgart,de Bundesliga,22.0,1843,Attacking Midfield,21.2,1.12,0.24,5.76,0.15,2.1
+Exequiel Palacios,Leverkusen,de Bundesliga,25.0,1155,Central Midfield,21.2,2.18,0.86,7.56,0.18,2.73
+Fabio Miretti,Genoa,it Serie A,20.0,1677,Central Midfield,12.8,1.18,0.27,2.9,0.11,1.88
+Facundo Buonanotte,Leicester City,eng Premier League,19.0,1523,Attacking Midfield,10.2,1.42,0.41,3.19,0.18,3.84
+Fares Chaïbi,Eint Frankfurt,de Bundesliga,21.0,1013,Attacking Midfield,12.8,2.13,0.36,4.62,0.26,2.04
+Faustino Anjorin,Empoli,it Serie A,22.0,1114,Central Midfield,3.4,1.37,0.16,4.44,0.14,3.39
+Felix Nmecha,Dortmund,de Bundesliga,23.0,1509,Central Midfield,42.5,0.83,0.24,5.07,0.07,3.4
+Fermin López,Barcelona,es La Liga,21.0,1252,Attacking Midfield,85.0,2.08,0.58,5.68,0.28,1.73
+Fisayo Dele-Bashiru,Lazio,it Serie A,23.0,947,Central Midfield,5.1,0.95,0.0,2.47,0.08,1.33
+Florian Wirtz,Leverkusen,de Bundesliga,21.0,2351,Attacking Midfield,85.0,2.18,1.0,6.74,0.27,1.61
+Fran Beltrán,Celta Vigo,es La Liga,25.0,2421,Central Midfield,3.4,0.56,0.26,5.65,0.07,2.83
+Félix Lemaréchal,Strasbourg,fr Ligue 1,20.0,1779,Attacking Midfield,5.1,1.47,0.35,2.93,0.15,2.48
+Gaetano Oristanio,Venezia,it Serie A,21.0,2315,Attacking Midfield,4.2,1.28,0.16,2.49,0.1,0.89
+Gavi,Barcelona,es La Liga,19.0,1085,Central Midfield,25.5,1.16,0.08,6.39,0.13,3.32
+Gianluca Busio,Venezia,it Serie A,22.0,2518,Central Midfield,4.7,1.0,0.11,3.4,0.06,2.32
+Giovanni Fabbian,Bologna,it Serie A,21.0,1023,Attacking Midfield,8.5,0.79,0.18,1.5,0.11,1.06
+Gvidas Gineitis,Torino,it Serie A,20.0,1430,Central Midfield,4.7,1.32,0.13,2.27,0.13,2.71
+Habib Diarra,Strasbourg,fr Ligue 1,20.0,2352,Central Midfield,29.8,1.03,0.23,4.44,0.17,1.34
+Hamza Rafia,Lecce,it Serie A,25.0,1058,Central Midfield,1.4,1.36,0.17,4.34,0.12,4.08
+Han-Noah Massengo,Auxerre,fr Ligue 1,23.0,1046,Central Midfield,6.8,0.26,0.0,2.41,0.03,2.93
+Hicham Boudaoui,Nice,fr Ligue 1,24.0,2435,Central Midfield,10.2,0.81,0.44,4.58,0.11,3.62
+Himad Abdelli,Angers,fr Ligue 1,24.0,2842,Attacking Midfield,4.2,1.24,0.73,6.56,0.1,2.34
+Hugo Larsson,Eint Frankfurt,de Bundesliga,20.0,2393,Central Midfield,23.8,0.79,0.08,4.55,0.08,2.9
+Hugo Sotelo,Celta Vigo,es La Liga,20.0,1254,Central Midfield,4.2,1.36,0.22,5.96,0.12,2.37
+Hákon Arnar Haraldsson,Lille,fr Ligue 1,21.0,1755,Attacking Midfield,21.2,1.79,0.26,5.23,0.14,2.26
+Ilaix Moriba,Celta Vigo,es La Liga,21.0,2132,Central Midfield,12.8,0.84,0.13,5.02,0.06,3.46
+Issa Doumbia,Venezia,it Serie A,20.0,939,Central Midfield,6.5,0.29,0.0,2.11,0.01,2.2
+Ivan Ilić,Torino,it Serie A,23.0,920,Central Midfield,6.0,0.88,0.2,4.4,0.11,0.98
+Iván Martín,Girona,es La Liga,25.0,2039,Central Midfield,4.2,0.97,0.04,5.78,0.08,1.9
+Jacob Ramsey,Aston Villa,eng Premier League,23.0,1623,Central Midfield,29.8,1.16,0.17,3.77,0.13,2.11
+Jacopo Fazzini,Empoli,it Serie A,21.0,1383,Central Midfield,7.2,0.78,0.26,3.19,0.03,2.47
+Jamal Musiala,Bayern Munich,de Bundesliga,21.0,1798,Attacking Midfield,85.0,2.05,0.7,5.36,0.23,2.2
+Jan Schöppner,Heidenheim,de Bundesliga,25.0,2681,Central Midfield,2.6,0.84,0.1,3.59,0.11,3.32
+Javier Guerra,Valencia,es La Liga,21.0,2581,Central Midfield,21.2,0.8,0.28,4.78,0.11,2.44
+Jens Odgaard,Bologna,it Serie A,25.0,1952,Attacking Midfield,10.2,0.74,0.09,2.31,0.08,1.34
+Jeong Woo-yeong,Union Berlin,de Bundesliga,24.0,1263,Attacking Midfield,3.0,1.28,0.14,4.49,0.12,1.5
+Joe Willock,Newcastle Utd,eng Premier League,24.0,1086,Central Midfield,11.9,1.82,0.0,3.4,0.17,2.98
+Johnny Cardoso,Betis,es La Liga,22.0,2144,Central Midfield,17.0,0.38,0.08,2.98,0.04,4.32
+Jordan James,Rennes,fr Ligue 1,20.0,1178,Central Midfield,10.2,1.83,0.08,5.12,0.15,3.36
+João Gomes,Wolves,eng Premier League,23.0,2974,Central Midfield,34.0,0.7,0.15,4.99,0.04,4.27
+Julio Enciso,Ipswich Town / Brighton,eng Premier League / eng Premier League,20.0,1163,Attacking Midfield,21.2,1.39,0.31,3.25,0.12,1.01
+Jurgen Ekkelenkamp,Udinese,it Serie A,24.0,1892,Central Midfield,8.5,0.71,0.1,3.42,0.06,2.28
+Justin Kluivert,Bournemouth,eng Premier League,25.0,2340,Attacking Midfield,21.2,1.73,0.19,4.04,0.18,1.42
+Kamory Doumbia,Brest,fr Ligue 1,21.0,1322,Attacking Midfield,7.6,1.77,0.48,4.9,0.08,4.7
+Khalil Fayad,Montpellier,fr Ligue 1,20.0,1028,Central Midfield,4.2,0.61,0.18,4.38,0.03,3.59
+Khéphren Thuram,Juventus,it Serie A,23.0,2326,Central Midfield,32.3,0.97,0.23,4.76,0.14,2.24
+Kobbie Mainoo,Manchester Utd,eng Premier League,19.0,1651,Central Midfield,59.5,0.76,0.11,3.54,0.09,3.54
+Kévin Danois,Auxerre,fr Ligue 1,20.0,1460,Central Midfield,17.0,1.54,0.18,5.86,0.14,4.25
+Lamine Camara,Monaco,fr Ligue 1,20.0,2054,Central Midfield,34.0,1.93,0.22,6.18,0.19,4.25
+Lazar Samardzic,Atalanta,it Serie A,22.0,1169,Attacking Midfield,13.6,2.69,0.46,7.08,0.22,1.77
+Lee Kang-in,Paris S-G,fr Ligue 1,23.0,1663,Attacking Midfield,23.8,3.03,0.7,7.74,0.3,1.52
+Lewis Ferguson,Bologna,it Serie A,24.0,983,Central Midfield,11.9,1.28,0.09,4.85,0.1,2.66
+Louis Mouton,Saint-Étienne,fr Ligue 1,22.0,1045,Attacking Midfield,3.4,1.38,0.43,4.65,0.11,5.08
+Lucas Bergvall,Tottenham,eng Premier League,18.0,1212,Central Midfield,29.8,0.82,0.0,3.64,0.04,4.68
+Lucas Da Cunha,Como,it Serie A,23.0,2613,Central Midfield,17.0,1.89,0.1,5.3,0.13,2.14
+Luka Sučić,Real Sociedad,es La Liga,21.0,1792,Central Midfield,8.5,1.26,0.25,3.97,0.13,2.01
+Léo Scienza,Heidenheim,de Bundesliga,25.0,1153,Attacking Midfield,7.6,2.65,0.08,2.34,0.29,1.72
+Magnus Knudsen,Holstein Kiel,de Bundesliga,23.0,1850,Central Midfield,2.6,0.39,0.05,2.63,0.06,2.92
+Manu Koné,Roma,it Serie A,23.0,2572,Central Midfield,42.5,0.66,0.14,5.04,0.06,2.27
+Manu Morlanes,Mallorca,es La Liga,25.0,1338,Central Midfield,2.0,0.67,0.13,5.92,0.02,4.51
+Marco Brescianini,Atalanta,it Serie A,24.0,991,Central Midfield,7.6,0.64,0.36,3.27,0.09,1.82
+Marcus Tavernier,Bournemouth,eng Premier League,25.0,1939,Attacking Midfield,21.2,2.0,0.23,5.94,0.19,2.23
+Martin Ødegaard,Arsenal,eng Premier League,25.0,2325,Attacking Midfield,55.2,2.44,0.97,9.99,0.21,0.97
+Martín Payero,Udinese,it Serie A,25.0,1381,Central Midfield,4.2,0.98,0.13,3.32,0.08,2.41
+Mateus Fernandes,Southampton,eng Premier League,20.0,2909,Central Midfield,42.5,1.05,0.28,4.49,0.09,3.62
+Matt O'Riley,Brighton,eng Premier League,23.0,938,Central Midfield,15.3,2.01,0.19,3.65,0.23,2.78
+Mattias Svanberg,Wolfsburg,de Bundesliga,25.0,1219,Central Midfield,6.8,0.96,0.0,2.66,0.13,2.58
+Mattéo Guendouzi,Lazio,it Serie A,25.0,3270,Central Midfield,23.0,1.18,0.17,8.7,0.09,1.9
+Maxence Caqueret,Como / Lyon,it Serie A / fr Ligue 1,24.0,1660,Central Midfield,11.0,1.57,0.05,6.83,0.1,3.85
+Merlin Röhl,Freiburg,de Bundesliga,22.0,965,Attacking Midfield,13.6,0.84,0.0,2.05,0.16,2.05
+Michel Ndary Adopo,Cagliari,it Serie A,24.0,2409,Central Midfield,6.0,0.71,0.07,3.96,0.09,3.06
+Mikael Ellertsson,Venezia,it Serie A,22.0,2470,Central Midfield,5.1,0.73,0.07,1.31,0.06,2.73
+Mikel Jauregizar,Athletic Club,es La Liga,20.0,2244,Central Midfield,25.5,0.92,0.2,4.73,0.06,4.53
+Mikkel Damsgaard,Brentford,eng Premier League,24.0,2911,Attacking Midfield,25.5,1.95,0.83,7.23,0.26,3.4
+Morgan Gibbs-White,Nott'ham Forest,eng Premier League,24.0,2803,Attacking Midfield,59.5,1.64,0.61,5.27,0.16,2.12
+Morgan Rogers,Aston Villa,eng Premier League,22.0,3114,Attacking Midfield,76.5,1.47,0.64,3.55,0.23,1.42
+Neil El Aynaoui,Lens,fr Ligue 1,23.0,1588,Central Midfield,19.6,1.25,0.23,4.25,0.11,3.91
+Niccolò Pisilli,Roma,it Serie A,19.0,1227,Central Midfield,25.5,0.73,0.22,4.62,0.05,2.57
+Nicolás Paz,Como,it Serie A,19.0,2687,Attacking Midfield,68.0,1.81,0.5,5.46,0.2,2.41
+Nicolò Fagioli,Fiorentina / Juventus,it Serie A / it Serie A,23.0,1533,Central Midfield,13.6,1.59,0.18,5.34,0.18,2.35
+Oihan Sancet,Athletic Club,es La Liga,24.0,1620,Attacking Midfield,21.2,1.17,0.28,5.0,0.11,1.0
+Omari Hutchinson,Ipswich Town,eng Premier League,20.0,2583,Attacking Midfield,25.5,1.08,0.14,2.61,0.12,1.5
+Pablo Barrios,Atlético Madrid,es La Liga,21.0,2330,Central Midfield,46.8,1.0,0.19,5.48,0.09,3.09
+Pablo Ibáñez,Osasuna,es La Liga,25.0,1294,Central Midfield,3.4,0.42,0.14,3.55,0.11,2.64
+Pablo Marín,Real Sociedad,es La Liga,21.0,1239,Attacking Midfield,6.0,1.02,0.15,3.27,0.07,2.18
+Pape Gueye,Villarreal,es La Liga,25.0,2224,Central Midfield,34.0,0.69,0.32,6.31,0.04,3.28
+Pape Matar Sarr,Tottenham,eng Premier League,21.0,1913,Central Midfield,25.5,0.71,0.05,4.14,0.08,3.72
+Patrizio Masini,Genoa,it Serie A,23.0,1538,Central Midfield,3.6,0.35,0.12,2.57,0.01,4.04
+Paul Nebel,Mainz 05,de Bundesliga,21.0,2345,Attacking Midfield,15.3,1.34,0.46,3.49,0.16,1.96
+Paul Wanner,Heidenheim,de Bundesliga,18.0,1771,Central Midfield,18.7,1.02,0.2,3.25,0.07,2.24
+Phil Foden,Manchester City,eng Premier League,24.0,1777,Attacking Midfield,59.5,2.18,0.35,5.22,0.24,1.11
+Pol Lozano,Espanyol,es La Liga,24.0,1943,Central Midfield,5.1,0.79,0.19,5.33,0.04,3.47
+Ramón Terrats,Villarreal / Getafe,es La Liga / es La Liga,23.0,1350,Central Midfield,2.6,1.13,0.4,2.87,0.19,2.2
+Rassoul Ndiaye,Le Havre,fr Ligue 1,22.0,1061,Central Midfield,6.8,0.85,0.08,3.9,0.05,3.99
+Rayan Cherki,Lyon,fr Ligue 1,20.0,2041,Attacking Midfield,76.5,3.31,0.97,9.08,0.49,0.97
+Rocco Reitz,Gladbach,de Bundesliga,22.0,1830,Central Midfield,17.0,0.79,0.49,4.48,0.1,5.16
+Romano Schmid,Werder Bremen,de Bundesliga,24.0,2834,Attacking Midfield,12.8,2.16,0.64,8.86,0.2,1.71
+Sergi Altimira,Betis,es La Liga,22.0,1972,Central Midfield,17.0,1.0,0.18,4.52,0.08,3.88
+Seydouba Cissé,Leganés,es La Liga,23.0,2435,Central Midfield,2.5,0.63,0.07,4.07,0.04,2.62
+Simon Sohm,Parma,it Serie A,23.0,2989,Central Midfield,6.8,0.6,0.27,4.22,0.06,1.63
+Tom Bischof,Hoffenheim,de Bundesliga,19.0,2559,Central Midfield,34.0,1.76,0.11,4.85,0.13,4.4
+Tommaso Pobega,Bologna,it Serie A,25.0,1178,Central Midfield,6.8,0.92,0.08,3.21,0.11,3.59
+Tomáš Suslov,Hellas Verona,it Serie A,22.0,2080,Attacking Midfield,3.4,1.17,0.09,3.55,0.08,3.12
+Unai Gómez,Athletic Club,es La Liga,21.0,1284,Attacking Midfield,4.2,0.7,0.14,1.61,0.06,0.98
+Valentin Atangana Edoa,Reims,fr Ligue 1,18.0,2854,Central Midfield,15.3,0.38,0.06,2.93,0.03,3.34
+Valentín Barco,Sevilla / Strasbourg,es La Liga / fr Ligue 1,20.0,1445,Central Midfield,34.0,0.87,0.25,4.8,0.13,4.11
+Warren Bondo,Monza / Milan,it Serie A / it Serie A,20.0,1780,Central Midfield,5.1,0.3,0.0,2.33,0.02,2.28
+Warren Zaïre-Emery,Paris S-G,fr Ligue 1,18.0,2050,Central Midfield,68.0,0.79,0.09,5.93,0.06,3.25
+Weston McKennie,Juventus,it Serie A,25.0,2310,Central Midfield,25.5,1.25,0.23,3.94,0.14,1.83
+Xavi Simons,RB Leipzig,de Bundesliga,21.0,2150,Attacking Midfield,34.0,2.13,0.96,5.86,0.26,1.67
+Yasin Ayari,Brighton,eng Premier League,20.0,1965,Central Midfield,29.8,1.37,0.46,3.44,0.11,3.62
+Yassin Belkhdim,Angers,fr Ligue 1,22.0,1523,Central Midfield,6.0,0.3,0.06,2.19,0.04,4.37
+Yassine Kechta,Le Havre,fr Ligue 1,22.0,2096,Central Midfield,3.4,0.64,0.09,4.17,0.05,3.69
+Yehor Yarmoliuk,Brentford,eng Premier League,20.0,1450,Central Midfield,27.2,0.56,0.25,3.91,0.06,3.85
+Youssef Maleh,Empoli,it Serie A,25.0,1510,Central Midfield,1.3,0.72,0.06,4.29,0.05,3.64
+Yunus Musah,Milan,it Serie A,21.0,1571,Central Midfield,11.9,1.32,0.17,4.81,0.1,1.95
+Éderson,Atalanta,it Serie A,25.0,2881,Central Midfield,38.2,1.16,0.19,6.75,0.13,2.72
+Þórir Jóhann Helgason,Lecce,it Serie A,23.0,1156,Central Midfield,1.5,1.71,0.0,2.96,0.09,1.25

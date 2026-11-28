@@ -1,0 +1,19 @@
+PROJECT BRIEF
+
+Position: Central attacking midfielder
+Player type: An attacking midfielder who also drops back and defends. A good playmaker who plays balls for wingers to run onto.
+Age: 25 or under
+Minimum minutes played: 900
+Budget: Under £100m
+Season: 2024/25 (Big 5 European Leagues)
+
+Key stats and weights (all per 90 minutes):
+1. Key passes (25%) - creates chances            [FBref: Passing]
+2. Through balls (20%) - plays runners in behind  [FBref: Pass Types]
+3. Progressive passes (20%) - moves ball forward  [FBref: Standard]
+4. xAG (15%) - quality of chances created         [FBref: Standard]
+5. Tackles + interceptions (20%) - defends        [FBref: Defensive Actions]
+
+Data sources:
+- FBref 2024/25 Big 5 player tables: Standard, Passing, Pass Types, Defensive Actions
+- Transfermarkt players.csv (Kaggle, "player scores") for market values
